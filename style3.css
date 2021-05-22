@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-clip:border-box ;
+}
+.carousel-item img{
+    max-height: 300px;
+    object-fit: cover;
+
+}
+p{
+    font-family: 'Aref Ruqaa', serif;
+}
+.p{
+    font-family: 'Katibeh', cursive;
+}
+.card-title{
+    font-family: 'Katibeh', cursive;
+}
+.card-img-top{
+    background-size: cover;
+}
